@@ -1,0 +1,47 @@
+# MATLAB auto-generated files
+*.asv
+*.m~
+*.mex*
+*.mlapp
+*.mlx
+*.slx
+*.slxc
+*.p
+octave-workspace
+
+# MATLAB Code Generation
+codegen/
+
+# Simulink autosave
+slprj/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux system files
+*~
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output directories (if regenerating figures locally)
+# Uncomment the lines below if you do not want to track generated figures
+# figures/*.png
+
+# Temporary files
+*.tmp
+*.log
