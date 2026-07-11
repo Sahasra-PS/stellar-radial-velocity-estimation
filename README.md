@@ -227,13 +227,13 @@ Each star gets a two-panel subplot:
 
 | Star | Catalog | Notes |
 |------|---------|-------|
-| HD 30584  | Henry Draper Catalog | Blueshifted; moderate approach |
-| HD 10032  | Henry Draper Catalog | Blueshifted; fast approach |
-| HD 64191  | Henry Draper Catalog | Blueshifted; same shift as HD 30584 |
-| HD 5211   | Henry Draper Catalog | Redshifted; slow recession |
-| HD 56030  | Henry Draper Catalog | Redshifted; same shift as HD 5211 |
-| HD 94028  | Henry Draper Catalog | Redshifted; high recession velocity |
-| SAO102986 | SAO Star Catalog     | Blueshifted; highest velocity in sample |
+| HD 30584  | Henry Draper Catalog | Blueshifted|
+| HD 10032  | Henry Draper Catalog | Blueshifted|
+| HD 64191  | Henry Draper Catalog | Blueshifted|
+| HD 5211   | Henry Draper Catalog | Redshifted|
+| HD 56030  | Henry Draper Catalog | Redshifted|
+| HD 94028  | Henry Draper Catalog | Redshifted|
+| SAO102986 | SAO Star Catalog     | Blueshifted|
 
 ---
 
