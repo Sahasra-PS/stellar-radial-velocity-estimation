@@ -63,8 +63,6 @@ Where:
 
 ### Radial Velocity Summary
 
-![Results Table]
-
 | Star Name | Radial Velocity (km/s) | H-alpha Wavelength (nm)  |    Shift    |
 |-----------|------------------------|--------------------------|-------------|
 | HD 30584  | −36.544                | 656.20                   | Blueshifted |
