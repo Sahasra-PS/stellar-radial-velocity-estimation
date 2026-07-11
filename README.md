@@ -124,7 +124,7 @@ stellar-radial-velocity-estimation/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/stellar-radial-velocity-estimation.git
+git clone https://github.com/Sahasra-PS/stellar-radial-velocity-estimation.git
 cd stellar-radial-velocity-estimation
 ```
 
